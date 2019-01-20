@@ -1,0 +1,15 @@
+{
+    "xml.fileAssociations": [
+        {
+            "systemId": "c:\\Users\\Berna\\Documents\\CursosOnline\\FATZWEB\\NODEJS\\app-images-pinterest\\schema\\tns.xsd",
+            "pattern": "**/**/*.xml"
+        }
+    ],
+    "files.exclude": {
+        "schema": true
+    },
+    "eslint.enable": false,
+    "jshint.enable": false,
+    "standard.enable": false,
+    "tslint.enable": false
+}
